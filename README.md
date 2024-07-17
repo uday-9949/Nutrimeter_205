@@ -20,7 +20,6 @@ https://nutrimeter.vercel.app/
 ## Below are some of the Screenshots with features:
 ![1](https://github.com/user-attachments/assets/fa9ac0dd-a5bf-4771-80d4-4705b1fb73ce)
 
-![2](https://github.com/user-attachments/assets/feffecf7-a524-481d-a079-20c1dacbe492)
 
 ![5](https://github.com/user-attachments/assets/66e9b34c-a138-45bb-a4e9-aaf2f01297c3)
 
