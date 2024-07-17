@@ -5,7 +5,7 @@ Nutrimeter is a one stop solution for all health related information and to trac
 
 
 ## 🚀 About us
-Hi, we as a team of 4 members studied from Masai School, learning full stack development and this project was built by us in cunstruct week to put all the skills in practice.
+Hi, we as a team of 4 members studiying from chaitanya bharathi institute of technology , learning full stack development and this project was built by us in cunstruct week to put all the skills in practice.
 All team members name:
 -puli uday kiran
 - sousheel
